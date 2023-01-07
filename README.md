@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-2nd Year at uni CS student <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
+2nd Year CS student at uni <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
 * 🌍  I'm based in Ulaanbaatar
 * ✉️  You can contact me at [hatsunemikux2003@gmail.com](mailto:hatsunemikux2003@gmail.com)
