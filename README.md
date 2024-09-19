@@ -7,7 +7,7 @@ Web Developer
 junior CS student at uni <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
 * 🌍  I'm based in Ulaanbaatar
-* ✉️  You can contact me at [hatsunemikux2003@gmail.com](mailto:hatsunemikux2003@gmail.com)
+* ✉️  You can contact me at [b.ikhmurun@gmail.com](mailto:b.ikhmurun@gmail.com)
 * 🧠  I'm learning React native , MongoDB , JS          
 
 ### Skills
