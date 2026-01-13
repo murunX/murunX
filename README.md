@@ -8,7 +8,7 @@ senior CS student at uni <img align="right" alt="Coding" width="400" src="https:
 
 * 🌍  I'm based in Ulaanbaatar
 * ✉️  You can contact me at [b.ikhmurun@gmail.com](mailto:b.ikhmurun@gmail.com)
-* 🧠  I'm learning React native , MongoDB , JS          
+* 🧠  I'm learning ReactJS , MongoDB , TS          
 
 ### Skills
 
